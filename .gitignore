@@ -1,0 +1,14 @@
+# Pre-Compiled Files #
+*.class
+/bin
+
+# SDK Projects
+
+sdk/
+
+# Automatic Generated Files #
+*.applet
+
+# Package Files #
+*.war
+*.ear
